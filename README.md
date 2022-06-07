@@ -1,5 +1,5 @@
 # Creating Interest vs Principal Graph
-## Data Set: mortgages.csv
+## Dataset: mortgages.csv
 
 Creating a simple graph to show the interest vs principle of a 30-year at 3% and a 30-year at 5% mortgages.
 
